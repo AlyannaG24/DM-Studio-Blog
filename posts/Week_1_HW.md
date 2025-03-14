@@ -9,25 +9,25 @@ allow_math: true
 # Session 1
 ## scavenger hunt  photos
 
-![An explosive cup of coffee](scavenger 5.jpg)
+![An explosive cup of coffee](scavenger5.jpg)
 
-![A book containing Digital Media wisdom, found amongst many](scacenger 8.jpg)
+![A book containing Digital Media wisdom, found amongst many](scacenger8.jpg)
 
-![A wide net strung hihg above](scavenger 9.jpg)
+![A wide net strung hihg above](scavenger9.jpg)
 
-![A curtain of roots, delivered by a winged visitor](scavenger 1.jpg)
+![A curtain of roots, delivered by a winged visitor](scavenger1.jpg)
 
-![A door for the condemned](scavenger 3.jpg)
+![A door for the condemned](scavenger3.jpg)
 
-![A study space fit for a Sith Lord](scavenger 10.jpg)
+![A study space fit for a Sith Lord](scavenger10.jpg)
 
-![The disembodied hands of a great ape](scavenger 4.jpg)
+![The disembodied hands of a great ape](scavenger4.jpg)
 
-![A basement-dwelling Black Box, bigger than you might think](scavenger 6.jpg)
+![A basement-dwelling Black Box, bigger than you might think](scavenger6.jpg)
 
-![A wide machine, dispensing beverages from a far away land](scavenger 7.jpg)
+![A wide machine, dispensing beverages from a far away land](scavenger7.jpg)
 
-![A golden globe atop a tower of eights](scavenger 2.jpg)
+![A golden globe atop a tower of eights](scavenger2.jpg)
 
 
 # Session 2
