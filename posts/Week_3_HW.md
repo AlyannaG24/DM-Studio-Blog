@@ -16,4 +16,6 @@ For the backing music, I used 'As Your World Grows Smaller' by Diffie Bosman on 
 
 Moving forward, I want to work on unifying my clips to have more of an impact through lighting and setting. I also believe that the timing of the clips should be chanegd, from longer consistant times in the first part and shorter clips that grow shorter as it reaches the climax of the fireworks. I also want to utilise L cuts and J cuts for the audio to build upon the scene and continuity.
 
-
+## In class activity - Mini Film
+![SC_of_mini_film](SC_of_mini_film.png)
+A screenshot of working on adding audio and sound effects into a mini film during an in-class activity
