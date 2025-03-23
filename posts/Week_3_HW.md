@@ -15,3 +15,5 @@ In producing this draft, I tried to express the tone and emotions subtly through
 For the backing music, I used 'As Your World Grows Smaller' by Diffie Bosman on Bensound for its dreamy-droney feel and how it changed key and transfroms into a warmer comfortable beat around halfway. I believe that the first part of the music really adds to the isolated desolate feel of the first part being isolated inside the house. I also used sound effects from free sound to add to the world and make it seem more realisitc, Eg. clock sounds, bird sounds etc.
 
 Moving forward, I want to work on unifying my clips to have more of an impact through lighting and setting. I also believe that the timing of the clips should be chanegd, from longer consistant times in the first part and shorter clips that grow shorter as it reaches the climax of the fireworks. I also want to utilise L cuts and J cuts for the audio to build upon the scene and continuity.
+
+
