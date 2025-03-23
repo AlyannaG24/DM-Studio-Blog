@@ -1,7 +1,7 @@
 ---
-title: Asignment 1 Video Self Portrait
+title: Asignment 1 
 published_at: 2025-03-25
-snippet: Assignment 1
+snippet: Video Self Portrait
 disable_html_sanitization: true
 allow_math: true
 ---
