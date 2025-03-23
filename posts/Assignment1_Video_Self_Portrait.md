@@ -7,7 +7,7 @@ allow_math: true
 ---
 
 # Video Submission
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/rkTq3ES4kSw" title="DM STUDIO Assignment 1 Self Portrait FINAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/c4rf9Fft1fg" title="DM STUDIO assignment 1 self portrait FINAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## References
 Music I Use: As Your World Grows Smaller ,
