@@ -7,5 +7,15 @@ allow_math: true
 ---
 
 # Session 1
+## Test Play with Adobe Illustraitor
+![W4_play_around](W4_play_around.png)
+
 ## Black Squares Activity
+![Mindmap of themes](Mindmap_of_themes.png)
+
+## Mindmap of Assignment prompts
+![Mindmap of themes](Mindmap_of_themes.png)
+
+# Session 2
+
 
