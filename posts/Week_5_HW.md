@@ -17,3 +17,9 @@ I think I will go for a split complementary palette as it gives a mix of the dep
 
 
 # Session 2
+## Iterations of Icons
+![sc](sc_of_bags.png)
+![sc](sc_of_toy_redesign.png)
+During this time I was working through creating all 18 icons and I ran into some minor issues whilst translating the sketches into designs in Illustraitor. Some sketches I did I felt did not work well as a flat 2D icon design, especially with my chosen style using no outlines, but only shifts in value/saturation to show shadow, depth and differentiate parts. 
+Some sketches, like the Inventory bag, worked much better as the changed icon design so I had to reverse the thought process to create the initial unchaged icon design. The initial sketch of the inventory bag had it open with stars jumping out, I thoguht that an effective design would be if the bag was first closed and when a player clicked on the icon, the bag would then open symbolisng opening the inventory menu. 
+With the toy bear, I found it difficult to create its legs with only flat shapes, so I decicded to iterate on and modify the design so the legs went stright down instead of a sitting position. I thoguht this somewhat emulated how a child would hold a teddy bear and its legs would be dangling.
