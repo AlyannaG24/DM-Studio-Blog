@@ -6,6 +6,6 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-#Session 1
+# Session 1
 
-#Session 2
+# Session 2
