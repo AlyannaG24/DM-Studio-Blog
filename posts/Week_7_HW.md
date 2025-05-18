@@ -22,6 +22,10 @@ Some 3D models I'm thinking of using are: cardboard boxes to really show the 'mo
 
 Some sounds I plan on using are car/truck sounds while in th moving van to simulate the truck pulling up/parking at the temporary rental, muffled domestic sounds whilst in the rental like if you could hear the neighbours through the walls to really give off a cramped feeling, cars driving past and shouting to aid the hustle and bustle of the city.
 
+# Preliminary List of Assets
+3D: Beds, Desks, Van, Tables, Chairs, Matresses
+sounds: truck sounds, ambient city sounds
+
 # Session 2
 ## Greybox
 ![greybox](greybox1.png)
@@ -34,6 +38,4 @@ This is my greybox for my series of spacial encounters. starting at the largest 
 ![chair illusion](chair3.png)
 In class we were tasked with playing around with unity and 3D shapes to create an anamorphism scene. I decided to create a floating chair
 
-# Preliminary List of Assets
-3D: Beds, Desks, Van, Tables, Chairs, Matresses
-sounds: truck sounds, ambient city sounds
+
