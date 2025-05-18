@@ -33,3 +33,7 @@ This is my greybox for my series of spacial encounters. starting at the largest 
 ![chair illusion](chair2.png)
 ![chair illusion](chair3.png)
 In class we were tasked with playing around with unity and 3D shapes to create an anamorphism scene. I decided to create a floating chair
+
+# Preliminary List of Assets
+3D: Beds, Desks, Van, Tables, Chairs, Matresses
+sounds: truck sounds, ambient city sounds
