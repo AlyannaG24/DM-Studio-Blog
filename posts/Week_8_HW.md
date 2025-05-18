@@ -7,6 +7,7 @@ allow_math: true
 ---
 
 # Session 1
+1[adding textures and assets](Adding_Assets.png)
 
 
 # Session 2
