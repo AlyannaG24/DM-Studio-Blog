@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-IMAGES/TEXTURES:
+# IMAGES/TEXTURE
 Artist: kues, Published on: FreePik, License: free
 https://www.freepik.com/free-photo/brick-wall-with-new-brick_928753.htm#fromView=search&page=1&position=7&uuid=23b3bfb2-fb8a-4049-aac9-641270ca94cc&query=brick
 
@@ -41,7 +41,7 @@ Artist: freepik, Published on: FreePik, License: free
 https://www.freepik.com/free-vector/gradient-roof-tile-pattern-design_22376514.htm#fromView=search&page=1&position=39&uuid=2a0598da-8aaa-4805-aab3-85ee9b816358&query=roof
 
 
-SOUNDS:
+# SOUNDS:
 Pickup_Ford_62_Start_Idle.wav by rambler52 -- https://freesound.org/s/332499/ -- License: Attribution 4.0
 Muffled voices.mp3 by lavenderlux -- https://freesound.org/s/614573/ -- License: Creative Commons 0
 Cars Passing By (stereo) by sonicbee -- https://freesound.org/s/149744/ -- License: Creative Commons 0
@@ -49,7 +49,7 @@ Artist: Benjamin Tissot, Music by: Bensound, License code: EWDYCFNUAUENT7EF
 https://www.bensound.com/royalty-free-music/track/piano-moment
 
 
-3D ASSETS:
+# 3D ASSETS
 Artist: Mateusz Woliński, Published on: SketchFab, License: CC Attribution
 https://sketchfab.com/3d-models/city-1f50f0d6ec5a493d8e91d7db1106b324
 
