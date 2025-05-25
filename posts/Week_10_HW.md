@@ -93,6 +93,32 @@ I already knew after reading the assignment breif I wanted to create these icons
 
 
 
+**Assignment 3 - Virtual Environment**
+
+*• How important was a working prototype to your design process? What did it offer that process?*
+
+
+
+
+*• How did your experience of designing and producing a three-dimensional environment differ from your experience of designing and producing a project in two-dimensional media?*
+
+
+
+*• What was the role of the virtual camera in your project, and how was it similar to and different from the role of the camera in Assignment 1?*
+
+
+
+*• How did you use sound in your project, and how was this similar to and different from your use of sound in Assignments 1 and 2?*
+
+
+
+*• How did you unify the different elements of your virtual environment under a certain theme or concept? How did your theme or concept evolve over the project’s development?*
+
+
+
+*• What did you discover through the process of play testing that you wouldn’t have discovered otherwise?*
+
+
 
 
 
