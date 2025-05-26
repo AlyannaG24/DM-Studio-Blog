@@ -97,28 +97,34 @@ I already knew after reading the assignment breif I wanted to create these icons
 
 *• How important was a working prototype to your design process? What did it offer that process?*
 
+A working prototype was very useful during the design process, just being able to see what each of actions added towards the final product was very helpful. A working prototype helped me to identify issues straight away, helped me to gague the scale of my 3d environments, helped me test if my game was navigable and more. It was most helpful in checking if things I added were working straight away, like the audios, backing music, box colliders, textures, shadows and builds. 
 
 
 
 *• How did your experience of designing and producing a three-dimensional environment differ from your experience of designing and producing a project in two-dimensional media?*
 
+This experience of designing and producing a 3D environemnt was very different from 2D media. Designing a 3D product involved a lot of planning, iterating and moving on by stages as a whole instead of getting one section done and implementing it then another. There was also the added aspect of play testing I haven't really done before, and I definitly understand its importance as I ran into so many problems with designing and producing the 3D environemnt which I discovered and solved through play testing.
 
 
 *• What was the role of the virtual camera in your project, and how was it similar to and different from the role of the camera in Assignment 1?*
 
+The virtual camera in Assignment 3 was similar to Assignemnt 1 in the way it was the point of view of the viewer, and allowed them to see what we wanted them to see. However, it was different in the way that in Assignment 1, the viewer had no control of the camera while in Assignment 3 the player controlled the camera/WAS the camera.
 
 
 *• How did you use sound in your project, and how was this similar to and different from your use of sound in Assignments 1 and 2?*
 
+My use of sound in Assignment 3 was similar to my use of sound in Assignment 1. I used it as a tool to enhance the atmosphere and give the viewers a better understanding of the environment and setting. I also used a backing track in both to set the overall emotions. The process of findng the audios and backing track was also the same in Assignment 1 and 3
+I didn't use many sound effects in my Assignment 3 like Assignment 2 as I unfortunately did not have nay interactive elements in it.
 
 
 *• How did you unify the different elements of your virtual environment under a certain theme or concept? How did your theme or concept evolve over the project’s development?*
 
+The differernt encounters were already unified from the start as they all are stages from the same story. All the encounters are of my bedrooms across 3 houses/appartments with a brief aesthetic encounter outdoors in a moving van to clarify the story for players. To summarise, the story being the process of moving houses multiple times from the quiet suburbs to the bustling city in the middle of the final year 12 exams. My theme mainly stayed the same over the projects development but I added more and more details, props and 3D assets to help really conceptualise the environments as a part of the story and to show not tell the narrative.
 
 
 *• What did you discover through the process of play testing that you wouldn’t have discovered otherwise?*
 
-
+Through play testing, and especially getting outside feedback, I discovered many players preferred if they'd be able to go back to previous rooms as before that I set it so once you progressed to new rooms you could not go back. My initial idea for this was to symbolise how life keeps moving forward with no way back with no regard for your feelings. However, after the feedback, I thought about it more and really at the base what I'm creating is a game for the player to enjoy and if being able to go back and see details they might have missed without having to restart makes it more enjoyable, then I think I should make it so. Through play testing I also discovered errors I was not able to see whilst creating the level, like glitched textures and mixxing colliders which I was able to quickly discover and fix.
 
 
 
