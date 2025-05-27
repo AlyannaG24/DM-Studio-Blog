@@ -48,7 +48,15 @@ I decided to depict the development of my emotional state from throughout highsc
 
 My primary aesthetic choices were to really develop the atmosphere and emotions of the video. I focused on lighting, audio and pacing to achieve this.
 
+<ins>Artist Statement - Assignmnet 1</ins>
 
+This video self-portrait reflects the emotional shift I went through moving from high school into university life. I structured the edit in two contrasting halves—starting with a monotone, isolated atmosphere and moving into something brighter and more alive—to mirror my own journey.
+
+Lighting and sound were key to setting the tone. I chose footage based on how well it supported the mood I wanted: dim, warm lighting for the first half, and vibrant, natural light for the second. I synced visual cuts to the beat of the audio, especially early on, where each scene changes every four beats to create a repetitive, foggy feeling. The soundtrack I used has a clear turning point, which helped me mark the emotional shift in the video. After that moment, the pacing picks up and the edits become quicker and more varied to build toward a sense of release.
+
+Sound design played a huge role. I used synths and whisper-like effects early on to create a dreamy, distant vibe, then transitioned to real-world sounds like birds and city noise to ground the second half in reality. In the final scene, I brought back those earlier, more isolated sounds to show that emotions don’t progress in a straight line—sometimes old feelings resurface.
+
+This piece is about more than just a timeline of events—it’s about emotional texture. It captures what it felt like to be stuck in a cycle, to break out of it, and to realize that progress isn’t always linear. Through editing, sound, and pacing, I aimed to create a portrait that feels honest, atmospheric, and emotionally layered.
 
 
 **Assignment 2 - Graphic Icons**
@@ -91,7 +99,15 @@ After going through many, many, many colour palettes, I decided on a split compl
 I already knew after reading the assignment breif I wanted to create these icons int he context of a video game UI menu panel so I was brainstorming ideas to widen on this idea with this in mind. Initially, when I think of dream, I think of whimsical and soft but as a fan of more psychological thriller adventure games, I really wanted to adapt this theme of dreams to this genre. Like the games 'Omori' and 'Litte Miss Fortune', they present as magical and whimsical initially, but have a consistant darker underlying theme I also wanted to emulate.
 
 
+<ins>Artist Statement - Assignmnet 2</ins>
 
+For this project, I designed a suite of nine interactive 2D flat icons, each responding with a visual change and accompanying sound when clicked. I approached the task with the idea of building a fictional video game UI menu panel, inspired by the charming interfaces of Animal Crossing, Hello Kitty Island Adventure, and Genshin Impact. Video games have always inspired me visually—there’s something about their ability to blend aesthetic with functionality that makes them a perfect space for cool, expressive design. So, when I read the brief, I knew I wanted to explore that space.
+
+The chosen theme was “dream,” and I initially wanted to subvert the usual soft and pastel associations by taking it in a darker, more psychological direction. Influenced by games like Omori, Little Misfortune, and Refind Self, I envisioned a UI that contrasts a sweet aesthetic with unsettling narrative undertones. While my early idea was to use a muted, eerie palette, through iteration I ended up choosing a split complementary scheme of pastel pinks, purples, and yellows. Though cuter than intended, it suited the icons better and still served the concept—creating a visual dissonance between the UI and the game world to subtly unbalance the player.
+
+The visual translation from thumbnails to Illustrator was fairly smooth, with only small changes like adjusting the teddy bear’s legs for clarity. Interestingly, some icons ended up better suited as “changed” states, which led to reverse-engineering their original forms. I paired each transition with light, atmospheric sounds to create a satisfying and immersive interaction.
+
+Overall, I used this assignment to channel my love of game design into something playful, cohesive, and just a little unsettling—like a dream that’s too perfect to be real.
 
 **Assignment 3 - Virtual Environment**
 
@@ -127,6 +143,15 @@ The differernt encounters were already unified from the start as they all are st
 Through play testing, and especially getting outside feedback, I discovered many players preferred if they'd be able to go back to previous rooms as before that I set it so once you progressed to new rooms you could not go back. My initial idea for this was to symbolise how life keeps moving forward with no way back with no regard for your feelings. However, after the feedback, I thought about it more and really at the base what I'm creating is a game for the player to enjoy and if being able to go back and see details they might have missed without having to restart makes it more enjoyable, then I think I should make it so. Through play testing I also discovered errors I was not able to see whilst creating the level, like glitched textures and mixxing colliders which I was able to quickly discover and fix.
 
 
+<ins>Artist Statement - Assignmnet 2</ins>
+
+For this project, I created a 3D virtual environment to narrate a personal story of change—moving homes multiple times during my final year 12 exams, from the quiet suburbs into the chaos of the city. Each scene is set in a different bedroom I’ve lived in, with a brief transition moment in a moving van to help clarify the narrative. I wanted to capture the feeling of time passing, emotional weight, and growth, using the environment itself to tell the story rather than relying on dialogue or text.
+
+Designing in 3D was a big shift from 2D work—it required a lot more iteration, planning, and especially playtesting. Having a working prototype was essential throughout the process. It helped me fine-tune the scale of rooms, test navigability, and immediately spot technical issues like missing colliders, broken lighting, or audio not playing. Playtesting also gave me insight I wouldn’t have otherwise noticed—for example, I originally designed the game to be linear with no ability to return to previous rooms, symbolising how time moves forward with no way back. But feedback made me realise players wanted to revisit scenes, so I adapted the experience to be more enjoyable.
+
+Sound played a similar role to Assignment 1, where I used ambient music and background audio to set the emotional tone and deepen immersion. Unlike Assignment 2, I had no interactive sound effects, but audio was still central to mood-setting.
+
+The virtual camera gave control to the player, unlike my fixed camera in Assignment 1, which helped reinforce the theme—this is your journey through my story. Over time, I added more assets, details, and lighting choices to strengthen the atmosphere and make each space feel lived-in and meaningful.
 
 
 
