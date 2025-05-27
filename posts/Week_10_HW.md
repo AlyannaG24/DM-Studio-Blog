@@ -9,7 +9,7 @@ allow_math: true
 # Session 1
 ## Self Reflections Questions
 
-**Assignment 1 - Video Edit**
+###Assignment 1 - Video Edit
 
 *• How did you approach the relationship between the sonic and visual components of your edit?*
 
@@ -59,7 +59,7 @@ Sound design played a huge role. I used synths and whisper-like effects early on
 This piece is about more than just a timeline of events—it’s about emotional texture. It captures what it felt like to be stuck in a cycle, to break out of it, and to realize that progress isn’t always linear. Through editing, sound, and pacing, I aimed to create a portrait that feels honest, atmospheric, and emotionally layered.
 
 
-**Assignment 2 - Graphic Icons**
+###Assignment 2 - Graphic Icons
 
 *• How would you summarise your idea behind the suite of icons, and why did you choose the theme that you did?*
 
@@ -109,7 +109,7 @@ The visual translation from thumbnails to Illustrator was fairly smooth, with on
 
 Overall, I used this assignment to channel my love of game design into something playful, cohesive, and just a little unsettling—like a dream that’s too perfect to be real.
 
-**Assignment 3 - Virtual Environment**
+###Assignment 3 - Virtual Environment
 
 *• How important was a working prototype to your design process? What did it offer that process?*
 
