@@ -1,5 +1,5 @@
 ---
-title: Week 6 Homework
+title: Week 6 Homework Session 1
 published_at: 2025-04-11
 snippet: homework
 disable_html_sanitization: true
