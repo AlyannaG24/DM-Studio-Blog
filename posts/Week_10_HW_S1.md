@@ -1,13 +1,12 @@
 ---
-title: Week 10 Homework
+title: Week 10 Homework Session 1
 published_at: 2025-05-19
 snippet: homework
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# Session 1
-## Self Reflections Questions
+# Self Reflections Questions
 
 ###Assignment 1 - Video Edit
 
