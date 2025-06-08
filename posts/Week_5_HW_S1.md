@@ -1,6 +1,6 @@
 ---
 title: Week 5 Homework Session 1
-published_at: 2025-03-30
+published_at: 2025-03-31
 snippet: Homework
 disable_html_sanitization: true
 allow_math: true
