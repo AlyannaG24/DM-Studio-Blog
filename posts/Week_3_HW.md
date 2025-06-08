@@ -1,13 +1,12 @@
 ---
-title: Week 3 Homework
+title: Week 3 Homework Session 1
 published_at: 2025-03-17
 snippet: homework
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# Session 1
-## Rough Draft
+# Rough Draft
 <iframe width="560" height="315" src="https://www.youtube.com/embed/60JRUtYBg1M?si=G2nxFl6ATzPEBXpG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 In producing this draft, I tried to express the tone and emotions subtly through short clips and timing of the backing music. I didn't put much thought into the order of the video because I was first just trying to put my vague ideas onto the timeline and build from there, adding to this I should also keep lighting in mind. I wanted to keep the sound effects minimal to keep its 'snapshot into life' feeling as well as emphasising the emptiness and isolation of the first part with the lack of sounds. I am wanting some specific shots, such as the cups, to be parallels and show the difference and developemnt in mood (from being alone one cup to to being with others many cups and talking in the background. I really wanted a smooth transition during the turning point (from computer shutdown to door opening), for a relatively seamless cut, I ended the computer shot into darkness and started the door shot from darkness.
