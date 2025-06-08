@@ -1,13 +1,12 @@
 ---
-title: Week 2 Homework
+title: Week 2 Homework Session 1
 published_at: 2025-03-14
 snippet: homework
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# Session 1
-## Storyboards
+# Storyboards
 
 ![storyboard p1](storyboards_1.jpg)
 ![storyboard p2](storyboards_2.jpg)
@@ -26,13 +25,3 @@ I aim to tell a story with these contrasts, from darkness to brightness through 
 
 In scene 16, it shows firworks, symbolising celebration and a happy ending. However the ngiht time setting could also foreshadow the next scene when the fireworks fade to black only for it to cut to shot 17, mirroring the opening shots but now in a panic. I used a POV shot again to mirror the POV shot of me sitting up, comming full circle. I intend for this ending to be losely open ended, letting the viewer decide if the development to brightness was just a dream or if this jump cut emulates the earler jump cuts to show it is a cycle, where life in non-linear and can be derailed.
 
-
-# Session 2
-## Sound Design Discussion
-A significant moment within my video is a sequence that transitions through four shots: an empty bench, a computer shutting down in the dark, a dark door opening onto light, and a bright blue sky (shots 8-11 in the storyborad). It is in this moment towards the middle of my video that there is a drastic tonal and emotional change from a melancholic tone and to one of optimism. The sound design and soundtrack, play a powerful role in helping to amplify and guide the audiences experience thru the transition. 
-
-The overall tone of the portrait is about change and renewal. In my editing, I set out to emphasise contrast, initially static shots that feel slightly to long, dim lighting, then into progression of movement and light. The visual progression is abrupt and matches the development of the soundtrack to further provide an emphasis. 
-
-The sequence uses visual and audio contrast to express the emotional shift. The first two shots set the tone of disconnected solitude. The empty bench represents loneliness and the computer shutting off disconnects oneself from possibility of connection. The fade to black allows for a smooth transition, the music dies and seems to make the viewer believe that is all there is. And then Light enters through the door opening in shot 3 creating change, a door opening to possibility. The fourth shot of clear sky indicates the new scene and a symbol of vastness and optimism. The viewer should feel this moment to be a clear emotional shift with the emotion produced in the music and sound design and visual moments. 
-
-The pacing of this moment is dramatic, the first two shots are slow and awkward , encouraging the audience to feel a little lost. The fade to black builds suspense, matched in the soundtrack as the music stops when the screen fades to black. The stillness sets up the door opening as more impactful, when the music returns with a more lively tempo and accompanies the introduction of light.
