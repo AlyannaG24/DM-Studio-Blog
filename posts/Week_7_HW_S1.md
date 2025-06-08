@@ -1,13 +1,11 @@
 ---
-title: Week 7 Homework
+title: Week 7 Homework Session 1
 published_at: 2025-04-28
 snippet: homework
 disable_html_sanitization: true
 allow_math: true
 ---
-
-# Session 1
-## Unity Solar System
+# Unity Solar System
 ![unity solar system short](unity_solarsystem_1.png)
 ![unity solar system long](unity_solarsystem_2.png)
 The in class task for week 7 is to recreate the solar system using a refernce provided. This is the first  class on 3D digital design and environments and I have no previous experience with unity or any other 3D design tools. Initially I found it difficult to navigate, however after playing around with shapes (height, width, depth, position, rotation etc) and having Thomas give us a few demonstartions on how to preform actions (like how to add materials to shapes) I found it much easier to start creating the solar system model. 
@@ -25,17 +23,5 @@ Some sounds I plan on using are car/truck sounds while in th moving van to simul
 # Preliminary List of Assets
 3D: Beds, Desks, Van, Tables, Chairs, Matresses
 sounds: truck sounds, ambient city sounds
-
-# Session 2
-## Greybox
-![greybox](greybox1.png)
-![greybox](greybox2.png)
-This is my greybox for my series of spacial encounters. starting at the largest box on the left moving through to the final box on the bottom right.
-
-# Anamorphism  
-![chair illusion](chair1.png)
-![chair illusion](chair2.png)
-![chair illusion](chair3.png)
-In class we were tasked with playing around with unity and 3D shapes to create an anamorphism scene. I decided to create a floating chair
 
 
